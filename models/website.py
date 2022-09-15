@@ -15,5 +15,5 @@ class Website(models.Model):
         "Matomo host",
         help="The host/path your Matomo installation is "
         "accessible by on the internet. Do not include a protocol here!\n"
-        "So http[s]://[this field]/Matomo.php should resolve to your Matomo.php",
+        "So http[s]://[this field]/matomo.php should resolve to your matomo.php",
     )
