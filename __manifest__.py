@@ -3,7 +3,7 @@
 
 {
     "name": "Matomo analytics",
-    "version": "12.0",
+    "version": "14.0",
     "author": "Therp BV,Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "category": "Website",
